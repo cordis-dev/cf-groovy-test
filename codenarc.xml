@@ -12,6 +12,8 @@
     <property name='violationMessage' value='Resolve unexpected comment.'/>
   </rule>
   
+  <rule class='org.codenarc.rule.basic.AssignmentInConditionalRule'/>
+  
   <rule-script path='file:///E:/!groovy-test/h.groovy'/>
   
 </ruleset>
