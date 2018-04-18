@@ -16,4 +16,8 @@
   
   <rule-script path='file:///E:/!groovy-test/h.groovy'/>
   
+    <ruleset-ref path='rulesets/basic.xml'>
+        <exclude name='StringInstantiation'/>
+    </ruleset-ref>
+  
 </ruleset>
