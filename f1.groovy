@@ -1,3 +1,3 @@
 if ((value = true)) {
-        // should be ==
+        // should be == 
     }
